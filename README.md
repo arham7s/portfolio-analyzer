@@ -1,6 +1,6 @@
 # 📊 Multi-Dimensional Portfolio Risk and Performance Analyzer
 
-🚀 Live App: [Click here to launch](https://portfolioanalyzerpy.streamlit.app)
+🚀 Live App: [Click here to launch](https://portfolioanalyzerpy.streamlit.app/)
 
 This is an advanced Streamlit-based web application that empowers investors, analysts, and enthusiasts to analyze, optimize, and manage portfolios using a rich set of financial metrics and simulation techniques.
 
