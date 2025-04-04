@@ -941,15 +941,13 @@ st.markdown(
     <h1 style="text-align: center; margin-top: 20px;">Contact Me</h1>
 
     <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-        <a href="https://github.com/kushalgowdagv" target="_blank" style="margin-right: 15px;">
+        <a href="https://github.com/arham7s" target="_blank" style="margin-right: 15px;">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub">
         </a>
-        <a href="mailto:kushalgowdagv@gmail.com" target="_blank" style="margin-right: 15px;">
+        <a href="mailto:arhamshahwork@gmail.com" target="_blank" style="margin-right: 15px;">
             <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" title="Email">
         </a>
-        <a href="https://www.linkedin.com/in/kushalgowdagv/" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn">
-        </a>
+        
     </div>
     <p style="text-align: center; font-size: 16px; margin-top: 10px;">Feel free to connect with me on any of the platforms above!</p>
     """,
