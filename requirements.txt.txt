@@ -1,8 +1,8 @@
 streamlit
-numpy
 pandas
-plotly
+numpy
 yfinance
 scipy
-statsmodels
 requests
+plotly
+statsmodels
